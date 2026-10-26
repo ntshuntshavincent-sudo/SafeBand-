@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "SafeBand — Personal Safety & GBV Response Platform",
+  "short_name": "SafeBand",
+  "description": "Privacy-first personal safety, emergency SOS, and tamper-proof encrypted evidence vault for gender-based violence response.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

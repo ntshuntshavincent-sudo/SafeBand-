@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#0f172a"/>
+  <!-- Subdued grid background -->
+  <circle cx="256" cy="256" r="180" fill="none" stroke="#1e293b" stroke-width="8" stroke-dasharray="12 12"/>
+  
+  <!-- Subtle Calculator Screen / Keypad Motif -->
+  <rect x="140" y="110" width="232" height="70" rx="16" fill="#1e293b" stroke="#334155" stroke-width="4"/>
+  <rect x="156" y="132" width="70" height="26" rx="6" fill="#38bdf8" opacity="0.8"/>
+  <text x="350" y="152" fill="#94a3b8" font-family="monospace" font-size="22" font-weight="bold" text-anchor="end">0.00</text>
+
+  <!-- Keypad dots & subtle safety shield core -->
+  <circle cx="170" cy="230" r="22" fill="#334155"/>
+  <circle cx="256" cy="230" r="22" fill="#334155"/>
+  <circle cx="342" cy="230" r="22" fill="#e11d48"/>
+
+  <circle cx="170" cy="300" r="22" fill="#334155"/>
+  <circle cx="256" cy="300" r="22" fill="#334155"/>
+  <circle cx="342" cy="300" r="22" fill="#f59e0b"/>
+
+  <rect x="148" y="350" width="130" height="44" rx="22" fill="#334155"/>
+  <circle cx="342" cy="372" r="22" fill="#10b981"/>
+
+  <!-- Subtle shield outline in center -->
+  <path d="M256 195 C 295 195, 310 210, 310 250 C 310 315, 256 345, 256 345 C 256 345, 202 315, 202 250 C 202 210, 217 195, 256 195 Z" fill="none" stroke="#f43f5e" stroke-width="4" stroke-opacity="0.3"/>
+</svg>
